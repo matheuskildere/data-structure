@@ -1,4 +1,4 @@
-package app.model;
+package app.estudante;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
